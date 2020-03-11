@@ -4,13 +4,27 @@
   
     
     <entry>
-      <title>Hello World</title>
-      <link href="/2020/02/24/hello-world/"/>
-      <url>/2020/02/24/hello-world/</url>
+      <title>10分钟搭建酷炫博客</title>
+      <link href="/2020/03/07/10%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA%E9%85%B7%E7%82%AB%E5%8D%9A%E5%AE%A2/"/>
+      <url>/2020/03/07/10%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA%E9%85%B7%E7%82%AB%E5%8D%9A%E5%AE%A2/</url>
       
-        <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="noopener">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="noopener">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="noopener">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="noopener">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="noopener">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html" target="_blank" rel="noopener">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html" target="_blank" rel="noopener">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html" target="_blank" rel="noopener">Deployment</a></p>]]></content>
+        <content type="html"><![CDATA[<h1 id="楔子"><a href="#楔子" class="headerlink" title="楔子"></a>楔子</h1><blockquote><p>之前的腾讯云备案被吊销了，东哥留下了悔恨的泪水😭加之之前买的小水管，磁盘inode满了，一直没时间去排查原因修复，于是……</p><p>重新拾起了Hexo，加上最近发现了一款心水的主题，便动手把博客通过Github Pages又搭了起来。</p></blockquote><h1 id="安装Hexo"><a href="#安装Hexo" class="headerlink" title="安装Hexo"></a>安装Hexo</h1><h1 id="开通Github-Pages服务"><a href="#开通Github-Pages服务" class="headerlink" title="开通Github Pages服务"></a>开通Github Pages服务</h1><h1 id="Hexo自动发布到Github-Pages"><a href="#Hexo自动发布到Github-Pages" class="headerlink" title="Hexo自动发布到Github Pages"></a>Hexo自动发布到Github Pages</h1><h1 id="尾巴"><a href="#尾巴" class="headerlink" title="尾巴"></a>尾巴</h1><blockquote><p>讲道理，只要支持静态页面托管服务的网站都可以使用Hexo一键部署、更新，比如Gitlab, Gitee等。嫌Github访问速度慢的同学也可以使用国内的Gitee提供的<a href="https://gitee.com/help/articles/4136" target="_blank" rel="noopener">码云Pages</a>服务。</p><p>讲道理，Hexo官网提供了其他好看的主题，可以在这里找到：<a href="https://hexo.io/themes" target="_blank" rel="noopener">https://hexo.io/themes</a></p></blockquote>]]></content>
       
       
+      <categories>
+          
+          <category> 折腾日记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Hexo </tag>
+            
+            <tag> GitHub </tag>
+            
+        </tags>
       
     </entry>
     
