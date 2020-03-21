@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>docker-compose下载镜像</title>
+      <link href="/2020/03/21/docker-compose%E4%B8%8B%E8%BD%BD%E9%95%9C%E5%83%8F/"/>
+      <url>/2020/03/21/docker-compose%E4%B8%8B%E8%BD%BD%E9%95%9C%E5%83%8F/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>国内通过 github 下载 docker-compose 实在是太慢了。。。</p></blockquote><p><a href="/attachment/docker-compose-Linux-x86_64">docker-compose-Linux-x86_64 V1.25.4</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 云备胎 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Docker </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>10分钟搭建酷炫博客</title>
       <link href="/2020/03/07/10%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA%E9%85%B7%E7%82%AB%E5%8D%9A%E5%AE%A2/"/>
       <url>/2020/03/07/10%E5%88%86%E9%92%9F%E6%90%AD%E5%BB%BA%E9%85%B7%E7%82%AB%E5%8D%9A%E5%AE%A2/</url>
